@@ -1,0 +1,14 @@
+.flashy{
+  color:red;
+  font-style: italic;
+}
+
+.best{
+  font-style: bold;
+  color: magenta;
+  font-family: cursive;
+}
+
+body{
+  background-color: lavender;
+}
